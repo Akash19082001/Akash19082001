@@ -1,6 +1,6 @@
 # Hey there, I'm  Akash 👋
 
-### 🚀 MERN Stack Developer | Open-Source Enthusiast | Lifelong Learner
+### 🚀 FULL Stack Developer | Open-Source Enthusiast | Lifelong Learner
 
 ---
 
